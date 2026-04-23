@@ -173,5 +173,3 @@ chmod +x run.sh
 ## 📜 License
 
 MIT License
-
-```
